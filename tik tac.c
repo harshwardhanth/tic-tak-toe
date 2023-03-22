@@ -50,7 +50,7 @@ int main()
             
         else
         {
-            printf("Invalid move ");
+            printf("Invalid input ");
 
             player--;
             getch();
